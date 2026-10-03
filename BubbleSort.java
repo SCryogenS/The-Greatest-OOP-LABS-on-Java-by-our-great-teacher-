@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class Main1 {
+public class BubbleSort {
     public static void bubblesort(int[] arr){
         boolean swapped;
         int n = arr.length;
