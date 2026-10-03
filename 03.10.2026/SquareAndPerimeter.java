@@ -121,7 +121,7 @@ public class SquareAndPerimeter{
         Circle circle = new Circle("Круг", 12);
         IsoscelesTriangle isoscelesTriangle = new IsoscelesTriangle("Равнобедренный треугольник", 14, 1488, 56);
         RightTriangle rightTriangle = new RightTriangle("Прямоугольный треугольник", 14, 67);
-        Rectangle rectangle = new Rectangle("Треугольник", 44, 32);
+        Rectangle rectangle = new Rectangle("Прямоугольник", 44, 32);
 
         square.Perimeter();
         square.square();
